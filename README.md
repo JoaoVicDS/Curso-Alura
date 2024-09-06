@@ -20,6 +20,15 @@ Este projeto é um sistema de busca desenvolvido durante a **Imersão Dev com Go
 2. **Processamento de Dados:** O sistema verifica os dados dos cursos, que incluem título, descrição, e tags.
 3. **Exibição dos Resultados:** Os cursos que correspondem à pesquisa ou são recomendados são exibidos na página.
 
+## Acesse o Projeto
+
+Você pode acessar o projeto [aqui](https://curso-alura-psi.vercel.app).
+
+## Contato
+
+Para mais informações ou sugestões, entre em contato pelo e-mail: [diassouzajoao@gmail.com](mailto:diassouzajoao@gmail.com)
+
+
 ---
 
 Agradeço por explorar o projeto de busca de cursos da Alura!
