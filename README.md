@@ -1,6 +1,6 @@
-# Sistema de Busca de Cursos da Alura - Imersao Dev com Google Gemini
+# Busca de Cursos da Alura
 
-Este projeto é um sistema de busca desenvolvido durante a Imersão Dev com Google Gemini. O objetivo é permitir a pesquisa de cursos da Alura com base em palavras-chave, exibindo resultados relevantes e recomendados.
+Este projeto é um sistema de busca desenvolvido durante a **Imersão Dev com Google Gemini**. O objetivo é permitir a pesquisa de cursos da Alura com base em palavras-chave, exibindo resultados relevantes e recomendados.
 
 ## Funcionalidades
 
