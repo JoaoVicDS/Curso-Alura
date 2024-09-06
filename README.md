@@ -1,0 +1,2 @@
+# Curso-Alura
+ Meu projeto é um sistema de busca de cursos da Alura onde posso encontrar cursos específicos com base em palavras-chave. Eu insiro uma palavra-chave e o sistema busca nos dados dos cursos, que incluem título, descrição, link, recomendação e tags. Ele mostra apenas os cursos que correspondem exatamente às palavras-chave, caso não seja digitado nada será destacado os cursos recomendados.
