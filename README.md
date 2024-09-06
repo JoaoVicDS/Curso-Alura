@@ -22,7 +22,7 @@ Este projeto é um sistema de busca desenvolvido durante a **Imersão Dev com Go
 
 ## Acesse o Projeto
 
-Você pode acessar o projeto [aqui](https://curso-alura-psi.vercel.app).
+Você pode acessar o projeto <a href="https://curso-alura-psi.vercel.app" target="_blank">aqui</a>.
 
 ## Contato
 
